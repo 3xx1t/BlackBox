@@ -28,4 +28,4 @@ O BlackBox é um site de Networking para usar como encontros online.
 
 ---
 
-made by BlackBox  [Participe da nossa comunidade!](https://blackbox.com.br)
+made by BlackBox  [Participe da nossa comunidade!](#)
